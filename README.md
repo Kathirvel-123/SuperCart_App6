@@ -14,14 +14,14 @@ The app fetches products from the **FakeStore API**, supports cart manipulation,
 - Increase / Decrease quantity  
 - Automatic **price conversion (USD → INR)**  
 - Clean card-based UI  
-- Fully responsive (mobile-first)  
+- Fully responsive
 - Global cart state using Context API  
 - Navigation using React Router  
 
 ---
 
 ##  Project Structure
-
+```bash
 SUPERCART/
 │── node_modules/
 │── public/
@@ -46,7 +46,7 @@ SUPERCART/
 │── package.json
 │── vite.config.js
 │── README.md
-
+```
 
 ---
 
