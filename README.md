@@ -67,7 +67,7 @@ SUPERCART/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/supercart.git
+git clone https://github.com/Kathirvel-123/SuperCart_App6.git
 cd supercart
 ```
 ### 2. Install dependencies
